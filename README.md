@@ -43,3 +43,6 @@ conda activate beta
 
 Install
 pip3 install git+https://github.com/I24-MOTION/i24_rcs@v1.1-stable
+
+# License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
